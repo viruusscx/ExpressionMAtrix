@@ -16,7 +16,6 @@ The model is deployed via a **Flask web application**, making it accessible thro
 
 ## 3. Project Structure
 
-
 emotion-detection-web/
 │
 ├── app.py                # Flask application (runs the web server)
@@ -25,6 +24,7 @@ emotion-detection-web/
 ├── templates/            # HTML templates for web pages
 ├── requirements.txt      # Python dependencies
 └── trainingmodel.ipynb   # Jupyter Notebook used for training the model
+
 
 
 
